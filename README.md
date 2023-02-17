@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **hkazlovich@gmail.com**
 
-- ⚡ Fun fact **I have a psychology degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

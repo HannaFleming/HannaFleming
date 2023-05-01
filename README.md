@@ -17,6 +17,8 @@
  
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hannafleming&show_icons=true&theme=transparent">
 
+[![](https://visitcount.itsvg.in/api?id=hannafleming&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 
